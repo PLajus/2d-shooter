@@ -1,0 +1,182 @@
+[
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\bullets\\Bullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\Bullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/Bullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\entities\\Entity.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\Entity.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/Entity.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\utils\\Collider.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\Collider.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/Collider.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\utils\\CursorDirectionCalculator.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\CursorDirectionCalculator.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/CursorDirectionCalculator.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\utils\\EntityDirectionCalculator.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\EntityDirectionCalculator.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/EntityDirectionCalculator.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\entities\\enemy\\Enemy.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\enemy\\Enemy.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/enemy/Enemy.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\bullets\\enemyBullet\\EnemyBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\enemyBullet\\EnemyBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/enemyBullet/EnemyBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\Game.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\Game.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/Game.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\GameRules.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\GameRules.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/GameRules.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\movement\\WASDMovement.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\movement\\WASDMovement.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/movement/WASDMovement.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\entities\\player\\Player.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\player\\Player.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/player/Player.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\bullets\\playerBullet\\PlayerBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\playerBullet\\PlayerBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/playerBullet/PlayerBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Berzerk.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Berzerk.dir\\main.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\main.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/main.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\bullets\\Bullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\Bullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/Bullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\entities\\Entity.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\Entity.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/Entity.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\utils\\Collider.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\Collider.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/Collider.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\utils\\CursorDirectionCalculator.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\CursorDirectionCalculator.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/CursorDirectionCalculator.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\utils\\EntityDirectionCalculator.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\utils\\EntityDirectionCalculator.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/utils/EntityDirectionCalculator.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\entities\\enemy\\Enemy.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\enemy\\Enemy.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/enemy/Enemy.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\bullets\\enemyBullet\\EnemyBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\enemyBullet\\EnemyBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/enemyBullet/EnemyBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\Game.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\Game.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/Game.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\GameRules.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\GameRules.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/GameRules.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\movement\\WASDMovement.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\movement\\WASDMovement.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/movement/WASDMovement.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\entities\\player\\Player.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\entities\\player\\Player.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/entities/player/Player.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\bullets\\playerBullet\\PlayerBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\bullets\\playerBullet\\PlayerBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/bullets/playerBullet/PlayerBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/src",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/BerzerkLib.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\BerzerkLib.dir\\main.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\src\\main.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/src/main.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/googletest/googlemock",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c D:\\Programming\\VSCodeBerzerk\\googletest\\googlemock\\src\\gmock-all.cc",
+  "file": "D:/Programming/VSCodeBerzerk/googletest/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/googletest/googlemock",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c D:\\Programming\\VSCodeBerzerk\\googletest\\googlemock\\src\\gmock_main.cc",
+  "file": "D:/Programming/VSCodeBerzerk/googletest/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/googletest/googletest",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c D:\\Programming\\VSCodeBerzerk\\googletest\\googletest\\src\\gtest-all.cc",
+  "file": "D:/Programming/VSCodeBerzerk/googletest/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/googletest/googletest",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -Wall -Wshadow -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -std=c++14 -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c D:\\Programming\\VSCodeBerzerk\\googletest\\googletest\\src\\gtest_main.cc",
+  "file": "D:/Programming/VSCodeBerzerk/googletest/googletest/src/gtest_main.cc"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\EntitiesShouldNotCollide.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\EntitiesShouldNotCollide.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/EntitiesShouldNotCollide.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\EntityShouldCollideWithBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\EntityShouldCollideWithBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/EntityShouldCollideWithBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\EntityShouldMove.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\EntityShouldMove.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/EntityShouldMove.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\EntityShouldCreateBullet.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\EntityShouldCreateBullet.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/EntityShouldCreateBullet.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\PlayerFactoryShouldCreatePlayer.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\PlayerFactoryShouldCreatePlayer.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/PlayerFactoryShouldCreatePlayer.cpp"
+},
+{
+  "directory": "D:/Programming/VSCodeBerzerk/build/test",
+  "command": "C:\\PROGRA~1\\MINGW-~1\\X86_64~1.0-P\\mingw64\\bin\\X86_64~2.EXE  @CMakeFiles/Tests.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\Tests.dir\\main.cpp.obj -c D:\\Programming\\VSCodeBerzerk\\test\\main.cpp",
+  "file": "D:/Programming/VSCodeBerzerk/test/main.cpp"
+}
+]

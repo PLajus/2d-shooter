@@ -1,0 +1,7 @@
+EntitiesShouldNotCollide 3 0.392626
+EntityShouldCollideWithBullet 3 0.333471
+EntityShouldMove 3 0.349333
+EntityShouldDie 0 0
+PlayerFactoryShouldCreatePlayer 3 0.338115
+EntityShouldCreateBullet 3 0.351074
+---

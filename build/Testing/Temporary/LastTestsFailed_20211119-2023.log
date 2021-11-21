@@ -1,0 +1,5 @@
+1:EntitiesShouldNotCollide
+2:EntityShouldCollideWithBullet
+3:EntityShouldMove
+4:EntityShouldCreateBullet
+5:PlayerFactoryShouldCreatePlayer

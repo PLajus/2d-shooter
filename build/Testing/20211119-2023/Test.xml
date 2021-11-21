@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Win32-mingw32-make"
+	BuildStamp="20211119-2023-Experimental"
+	Name="DESKTOP-4TRUT76"
+	Generator="ctest-3.21.2"
+	CompilerName="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/x86_64-w64-mingw32-g++.exe"
+	CompilerVersion="8.1.0"
+	OSName="Windows"
+	Hostname="DESKTOP-4TRUT76"
+	OSRelease=" Professional"
+	OSVersion=" (Build 19042)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="12"
+	ProcessorCacheSize="-1"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="14139"
+	TotalPhysicalMemory="8130"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="3392"
+	>
+	<Testing>
+		<StartDateTime>Nov 19 23:20 FLE Standard Time</StartDateTime>
+		<StartTestTime>1637356857</StartTestTime>
+		<TestList>
+			<Test>./test/EntitiesShouldNotCollide</Test>
+			<Test>./test/PlayerFactoryShouldCreatePlayer</Test>
+			<Test>./test/EntityShouldCollideWithBullet</Test>
+			<Test>./test/EntityShouldMove</Test>
+			<Test>./test/EntityShouldCreateBullet</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>EntitiesShouldNotCollide</Name>
+			<Path>./test</Path>
+			<FullName>./test/EntitiesShouldNotCollide</FullName>
+			<FullCommandLine>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.449312</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVVE1vgzAMvfMrfGwPRWvFjjtsVbfDtA+xTjugHlJwR7SQVInTjX+/QLq2IJjAlyT2e46fHUhuTraB2ErJ5SdcA6EhAzutiuMBjOVuDYNkdrINPAi1ZcIDUB64VrJA6cBIM7tvgeceVyd9FaxEfc9SUrpcO7e7Nkggfn+G2jadiLDhjJGslsb7HNnby+N4MkwW0QIKMx1X8B8NSBET06CfvZLEqbwlYulXU+ZlJPSHt1xZkS01MsI7KwRSU9wgiqvtf0GXWTx4qAx/2ZM6YJeUc/RYW7WtHkWXiF4wTKIh5Z/5njBUgu/RUgnBDVeyS0cL0mx05c3wg1PeP6BRCQaOq5Vz3Nw65YZhGKxzBF2B1Q7I7WuisrS3BN/MuFjhOpyB4TJF4O5T/0kRM+PBuaPmSmQVe361iGBb1j+KX0nham8=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>PlayerFactoryShouldCreatePlayer</Name>
+			<Path>./test</Path>
+			<FullName>./test/PlayerFactoryShouldCreatePlayer</FullName>
+			<FullCommandLine>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.379321</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVlE1TgzAQhu/8ij3aQxnL6NGDdqoHx4/BOh4YDilsJWNIOsmmyr83kNoWBhzYC8nmfTf7BEJyc4wUYisll59wDYSGDGy1Kg8TMJa7Zxgk82Ok8CDUhgkvQLnnWskSpRMjze2uI154XVP0VbAK9T3LSOlq7dJu2yCB+P0Zmkh7FWErGSNZLY3PObOPl8fpZriIoghKM5vW8J8NSBETs2DYvZLEqbolYtlXG/N8JfSTt0JZkS81MsI7KwRSG26UxfX2P9B5FS8ei+E3e1J77EM5rR56q4f1R9EHMSge2f7JPw3Bn9FSCcENV7KPoyNpH3SdzfGDUzH8giYVGMnbqTkNuhc3DMNgXSDoWqy2QG7cGJWlnSX4Zsatle6EczBcZgjcXfWfDDE3Xlw4a6FEXrsXl9EVbKrmR/ELNmVqZw==</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>EntityShouldCollideWithBullet</Name>
+			<Path>./test</Path>
+			<FullName>./test/EntityShouldCollideWithBullet</FullName>
+			<FullCommandLine>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.416074</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVlD1vgzAQhnd+xY3JEFSiRp06tFHboeqHaKoOiMGBS7Fq7Mg+p+Xf1+A0CRFUcAv2+X3P9xhMcn2IFGIrJZefsABCQwY2WpX7CRjL3TMMktkhUngQas2EF6Dcca1kidKJkWZ2eyaOvK4p+ipYhfqeZaR0tXJpt22QQPz+DE2knYqwlYyRrJbG55zZx8vjeDNM5osrKM10XMN/NiBFTEyDfvedJE7VDRHLvtqYpyuhn7wVyop8qZER3lohkNpwgywwif4HOq3ixUMx/GZPaoddKMfVfW/1sP4ouiB6xQPbP/rHIfgzWiohuOFKdnGcSdoHXWdz/OBU9L+gUQUG8p7VHAfdiRuGYbAqEHQtVhsgN26MytLWEnwz49ZKd8I5GC4zBO6u+k+GmBsvLpy1UCKv3dHF/BLWVfOj+AVgM2px====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>EntityShouldMove</Name>
+			<Path>./test</Path>
+			<FullName>./test/EntityShouldMove</FullName>
+			<FullCommandLine>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.417176</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVlD1PwzAQhvf8ihvboRYpdGBgoBUwID5UihiiDm5yJRaOXdnnQv49TlzaJkpRekvs8/ue/VziJDf7WMLcKSXUJ0yA0JKFtdHFbgLWCf9kUTLaxxIepF5xGQSotsJoVaDyYqSR27TEcdDVRV8lL9Hc85S0KRc+7beNEpi/P0Mdy04FayTnSM4oG3LeHOLl8XwzDMaTayjs8LwD/9mANHE5jE677xQJKm+JePrVxDxeYWHylmsns5lBTjh1UiI14XpZYHD5P9BxlSDuixE2e9Jb7EI5rO7OVg2rj6IL4qTYt7bP8Q/+YOiLEHo001IKK7Tq4mhJmo2ushl+CMpPv6CzCsAg7sPbqhlcfaE7cRlj0SJHMJVYr4H8uDZqRxtH8M2tXyt8hzOwQqUIwl/1nxQxs0Gce2uuZVa544vxFazK+kfxC3oAans=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<Test Status="passed">
+			<Name>EntityShouldCreateBullet</Name>
+			<Path>./test</Path>
+			<FullName>./test/EntityShouldCreateBullet</FullName>
+			<FullCommandLine>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.411108</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>D:\Programming\VSCodeBerzerk\build\test\Tests.exe</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJyVlE1TgzAQhu/8ij3aQxlbP24ebEc9OH4M1vHAcEhhKxlD0kk2Vf69gdS2MODAXkg277vZJxDim0MkEFkpufyEKyA0ZGCjVbGfgLHcPcMgnh4igQeh1kx4Acod10oWKJ0YaWq3LfHM6+qir4KVqO9ZSkqXK5d22wYxRO/PUEfSqQgbyQjJaml8zpl9vDyON8PZ/OIaCjMZ1/CfDUgRE5Og330niVN5S8TSrybm6UroJ2+5siJbamSECysEUhNukMX19j/QaRUvHorhN3tSO+xCOa7ue6uG1UfRBdErHtj+0T8OwZ/RUgnBDVeyi6MlaR50lc3wg1Pe/4JGFRjI26o5DroTNwzDYJUj6EqsNkBuXBuVpa0l+GbGrRXuhDMwXKYI3F31nxQxM16cO2uuRFa5Z+fzS1iX9Y/iF1Z+anE=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Nov 19 23:20 FLE Standard Time</EndDateTime>
+		<EndTestTime>1637356857</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

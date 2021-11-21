@@ -1,0 +1,228 @@
+Start testing: Nov 19 23:20 FLE Standard Time
+----------------------------------------------------------
+1/5 Testing: EntitiesShouldNotCollide
+1/5 Test: EntitiesShouldNotCollide
+Command: "D:/Programming/VSCodeBerzerk/build/test/Tests.exe"
+Directory: D:/Programming/VSCodeBerzerk/build/test
+"EntitiesShouldNotCollide" start time: Nov 19 23:20 FLE Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from PlayerFactoryTesting
+[ RUN      ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer
+[       OK ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer (242 ms)
+[----------] 1 test from PlayerFactoryTesting (242 ms total)
+
+[----------] 1 test from EntityAttack
+[ RUN      ] EntityAttack.EntityShouldCreateBullet
+[       OK ] EntityAttack.EntityShouldCreateBullet (2 ms)
+[----------] 1 test from EntityAttack (2 ms total)
+
+[----------] 1 test from EntityShouldMove
+[ RUN      ] EntityShouldMove.EntityMovement
+[       OK ] EntityShouldMove.EntityMovement (4 ms)
+[----------] 1 test from EntityShouldMove (4 ms total)
+
+[----------] 1 test from EntityBulletCollision
+[ RUN      ] EntityBulletCollision.EntityShouldCollideWithBullet
+[       OK ] EntityBulletCollision.EntityShouldCollideWithBullet (2 ms)
+[----------] 1 test from EntityBulletCollision (2 ms total)
+
+[----------] 1 test from EntityCollision
+[ RUN      ] EntityCollision.EntitiesShouldNotCollide
+[       OK ] EntityCollision.EntitiesShouldNotCollide (9 ms)
+[----------] 1 test from EntityCollision (9 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (262 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.45 sec
+----------------------------------------------------------
+Test Passed.
+"EntitiesShouldNotCollide" end time: Nov 19 23:20 FLE Standard Time
+"EntitiesShouldNotCollide" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/5 Testing: PlayerFactoryShouldCreatePlayer
+5/5 Test: PlayerFactoryShouldCreatePlayer
+Command: "D:/Programming/VSCodeBerzerk/build/test/Tests.exe"
+Directory: D:/Programming/VSCodeBerzerk/build/test
+"PlayerFactoryShouldCreatePlayer" start time: Nov 19 23:20 FLE Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from PlayerFactoryTesting
+[ RUN      ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer
+[       OK ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer (222 ms)
+[----------] 1 test from PlayerFactoryTesting (222 ms total)
+
+[----------] 1 test from EntityAttack
+[ RUN      ] EntityAttack.EntityShouldCreateBullet
+[       OK ] EntityAttack.EntityShouldCreateBullet (2 ms)
+[----------] 1 test from EntityAttack (2 ms total)
+
+[----------] 1 test from EntityShouldMove
+[ RUN      ] EntityShouldMove.EntityMovement
+[       OK ] EntityShouldMove.EntityMovement (2 ms)
+[----------] 1 test from EntityShouldMove (2 ms total)
+
+[----------] 1 test from EntityBulletCollision
+[ RUN      ] EntityBulletCollision.EntityShouldCollideWithBullet
+[       OK ] EntityBulletCollision.EntityShouldCollideWithBullet (2 ms)
+[----------] 1 test from EntityBulletCollision (2 ms total)
+
+[----------] 1 test from EntityCollision
+[ RUN      ] EntityCollision.EntitiesShouldNotCollide
+[       OK ] EntityCollision.EntitiesShouldNotCollide (8 ms)
+[----------] 1 test from EntityCollision (8 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (239 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.38 sec
+----------------------------------------------------------
+Test Passed.
+"PlayerFactoryShouldCreatePlayer" end time: Nov 19 23:20 FLE Standard Time
+"PlayerFactoryShouldCreatePlayer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/5 Testing: EntityShouldCollideWithBullet
+2/5 Test: EntityShouldCollideWithBullet
+Command: "D:/Programming/VSCodeBerzerk/build/test/Tests.exe"
+Directory: D:/Programming/VSCodeBerzerk/build/test
+"EntityShouldCollideWithBullet" start time: Nov 19 23:20 FLE Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from PlayerFactoryTesting
+[ RUN      ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer
+[       OK ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer (257 ms)
+[----------] 1 test from PlayerFactoryTesting (257 ms total)
+
+[----------] 1 test from EntityAttack
+[ RUN      ] EntityAttack.EntityShouldCreateBullet
+[       OK ] EntityAttack.EntityShouldCreateBullet (1 ms)
+[----------] 1 test from EntityAttack (1 ms total)
+
+[----------] 1 test from EntityShouldMove
+[ RUN      ] EntityShouldMove.EntityMovement
+[       OK ] EntityShouldMove.EntityMovement (1 ms)
+[----------] 1 test from EntityShouldMove (1 ms total)
+
+[----------] 1 test from EntityBulletCollision
+[ RUN      ] EntityBulletCollision.EntityShouldCollideWithBullet
+[       OK ] EntityBulletCollision.EntityShouldCollideWithBullet (1 ms)
+[----------] 1 test from EntityBulletCollision (1 ms total)
+
+[----------] 1 test from EntityCollision
+[ RUN      ] EntityCollision.EntitiesShouldNotCollide
+[       OK ] EntityCollision.EntitiesShouldNotCollide (4 ms)
+[----------] 1 test from EntityCollision (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (267 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"EntityShouldCollideWithBullet" end time: Nov 19 23:20 FLE Standard Time
+"EntityShouldCollideWithBullet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/5 Testing: EntityShouldMove
+3/5 Test: EntityShouldMove
+Command: "D:/Programming/VSCodeBerzerk/build/test/Tests.exe"
+Directory: D:/Programming/VSCodeBerzerk/build/test
+"EntityShouldMove" start time: Nov 19 23:20 FLE Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from PlayerFactoryTesting
+[ RUN      ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer
+[       OK ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer (259 ms)
+[----------] 1 test from PlayerFactoryTesting (259 ms total)
+
+[----------] 1 test from EntityAttack
+[ RUN      ] EntityAttack.EntityShouldCreateBullet
+[       OK ] EntityAttack.EntityShouldCreateBullet (3 ms)
+[----------] 1 test from EntityAttack (3 ms total)
+
+[----------] 1 test from EntityShouldMove
+[ RUN      ] EntityShouldMove.EntityMovement
+[       OK ] EntityShouldMove.EntityMovement (2 ms)
+[----------] 1 test from EntityShouldMove (2 ms total)
+
+[----------] 1 test from EntityBulletCollision
+[ RUN      ] EntityBulletCollision.EntityShouldCollideWithBullet
+[       OK ] EntityBulletCollision.EntityShouldCollideWithBullet (1 ms)
+[----------] 1 test from EntityBulletCollision (1 ms total)
+
+[----------] 1 test from EntityCollision
+[ RUN      ] EntityCollision.EntitiesShouldNotCollide
+[       OK ] EntityCollision.EntitiesShouldNotCollide (5 ms)
+[----------] 1 test from EntityCollision (6 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (273 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.42 sec
+----------------------------------------------------------
+Test Passed.
+"EntityShouldMove" end time: Nov 19 23:20 FLE Standard Time
+"EntityShouldMove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/5 Testing: EntityShouldCreateBullet
+4/5 Test: EntityShouldCreateBullet
+Command: "D:/Programming/VSCodeBerzerk/build/test/Tests.exe"
+Directory: D:/Programming/VSCodeBerzerk/build/test
+"EntityShouldCreateBullet" start time: Nov 19 23:20 FLE Standard Time
+Output:
+----------------------------------------------------------
+[==========] Running 5 tests from 5 test suites.
+[----------] Global test environment set-up.
+[----------] 1 test from PlayerFactoryTesting
+[ RUN      ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer
+[       OK ] PlayerFactoryTesting.PlayerFactoryReturnsPlayer (236 ms)
+[----------] 1 test from PlayerFactoryTesting (236 ms total)
+
+[----------] 1 test from EntityAttack
+[ RUN      ] EntityAttack.EntityShouldCreateBullet
+[       OK ] EntityAttack.EntityShouldCreateBullet (2 ms)
+[----------] 1 test from EntityAttack (2 ms total)
+
+[----------] 1 test from EntityShouldMove
+[ RUN      ] EntityShouldMove.EntityMovement
+[       OK ] EntityShouldMove.EntityMovement (2 ms)
+[----------] 1 test from EntityShouldMove (2 ms total)
+
+[----------] 1 test from EntityBulletCollision
+[ RUN      ] EntityBulletCollision.EntityShouldCollideWithBullet
+[       OK ] EntityBulletCollision.EntityShouldCollideWithBullet (2 ms)
+[----------] 1 test from EntityBulletCollision (2 ms total)
+
+[----------] 1 test from EntityCollision
+[ RUN      ] EntityCollision.EntitiesShouldNotCollide
+[       OK ] EntityCollision.EntitiesShouldNotCollide (7 ms)
+[----------] 1 test from EntityCollision (7 ms total)
+
+[----------] Global test environment tear-down
+[==========] 5 tests from 5 test suites ran. (251 ms total)
+[  PASSED  ] 5 tests.
+<end of output>
+Test time =   0.41 sec
+----------------------------------------------------------
+Test Passed.
+"EntityShouldCreateBullet" end time: Nov 19 23:20 FLE Standard Time
+"EntityShouldCreateBullet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Nov 19 23:20 FLE Standard Time
